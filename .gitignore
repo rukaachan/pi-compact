@@ -1,0 +1,6 @@
+node_modules/
+coverage/
+plans/
+*.tsbuildinfo
+*.tgz
+.DS_Store
